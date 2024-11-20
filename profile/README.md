@@ -1,6 +1,6 @@
 # PRC Data Challenge 2024
 
-Provide 369013 flights flown all over Europe in 2022 to 132 teams (261 individual) and they do magic in building models to estimate the Actual Takeoff Weight (ATOW)!
+Provide 369013 flights flown all over Europe in 2022 to 132 teams (261 individuals) and they do magic in building ML models to estimate the Actual Takeoff Weight (ATOW)!
 
 This organization collects material related to the [2024 PRC Data Challenge](https://ansperformance.eu/study/data-challenge/).
 
