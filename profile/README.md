@@ -2,7 +2,7 @@
 
 Provide 369013 flights flown all over Europe in 2022 to 132 teams (261 individuals) and they do magic in building ML models to estimate the Actual Takeoff Weight (ATOW)!
 
-This organization collects material related to the [2024 PRC Data Challenge](https://ansperformance.eu/study/data-challenge/dc2024).
+This organization collects material related to the [2024 PRC Data Challenge](https://ansperformance.eu/study/data-challenge/dc2024/).
 
 We forked the repos from the team's original (GPLv3) pubic repositories in order to trace the genealogy (and mantain attribution).
 
